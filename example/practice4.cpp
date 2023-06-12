@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 class flight{
-    int flightnumber ,n;
+    int flightnumber;
     char destination[20];
     float distance,fuel;
     int calfuel(){
@@ -30,7 +30,7 @@ class flight{
         cin>>destination;
         cout<<"enter distance:";
         cin>>distance;
-        n = calfuel();
+        fuel = calfuel();
     }
 
     void showinfo(){
