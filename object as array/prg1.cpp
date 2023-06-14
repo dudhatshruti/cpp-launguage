@@ -7,14 +7,13 @@ class test{
     void setdata();
     void getdata(){
         cout<<"roll no:"<<r<<endl;
-        cout<<"name:"<<r<<endl;
-        cout<<"maths marks:"<<r<<endl;
-        cout<<"sci marks:"<<r<<endl;
-        cout<<"eng marks:"<<r<<endl;
+        cout<<"name:"<<name<<endl;
+        cout<<"maths marks:"<<m<<endl;
+        cout<<"sci marks:"<<s<<endl;
+        cout<<"eng marks:"<<e<<endl;
         cout<<"total marks:"<<(m+s+e)<<endl;
     }
 };
-
 void test ::setdata(){
     cout<<"enter roll no:";
     cin>>r;
@@ -27,7 +26,6 @@ void test ::setdata(){
     cout<<"enter eng marks:";
     cin>>e;
 }
-
 int main(){
     test a[5];
     int i;
@@ -43,5 +41,4 @@ int main(){
         a[i].getdata();
         cout<<endl;
     }
-    
 }

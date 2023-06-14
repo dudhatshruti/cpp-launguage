@@ -15,7 +15,7 @@ class test{
 };
 
 int main(){
-    test a(10);
+    test a(20);
     cout<<"age of a is:"<<a.getage()<<endl;
 
     test b(a);
