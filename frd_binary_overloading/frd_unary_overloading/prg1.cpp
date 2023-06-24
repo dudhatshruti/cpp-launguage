@@ -1,3 +1,5 @@
+/* friend function using unary overloading*/
+
 #include<iostream>
 using namespace std;
 class box{

@@ -1,3 +1,5 @@
+/* friend function using binary overloading*/
+
 #include<iostream>
 using namespace std;
 class box{

@@ -1,0 +1,45 @@
+
+
+ Pro_No      Pro_nm     Pro_qty    Pro_price   Dis   GST    Net price 
+
+3        mung dal           2         45       0        4.5      94.5
+15        veg. Nudules           4         70       0        14      294
+5        panner tika           4         150       120        30      510
+
+Total Item ::->10
+
+
+____________________________
+
+Grand total ::898.5
+
+
+
+ Pro_No      Pro_nm     Pro_qty    Pro_price   Dis   GST    Net price 
+
+4201536                   6422280         8.99953e-039       0        2.88988e-033      6.06874e-032
+4201536                   6422280         8.99953e-039       0        2.88988e-033      6.06874e-032
+4201536                   6422280         8.99953e-039       0        2.88988e-033      6.06874e-032
+4201536                   6422280         8.99953e-039       0        2.88988e-033      6.06874e-032
+4201536                   6422280         8.99953e-039       0        2.88988e-033      6.06874e-032
+
+Total Item ::->32111400
+
+
+____________________________
+
+Grand total ::3.03437e-031
+
+
+
+ Pro_No      Pro_nm     Pro_qty    Pro_price   Dis   GST    Net price 
+
+14        veg. biriyani           2         100       0        10      210
+
+Total Item ::->2
+
+
+____________________________
+
+Grand total ::210
+
