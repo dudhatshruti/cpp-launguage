@@ -1,47 +1,43 @@
+
 #include<iostream>
 using namespace std;
-class base{
-    protected:
-    int a;
-    public:
-    void seta(){
-       cout<<"cube of a"<<endl;
-    }
+class a
+{
+   protected:
+   public:
+    void b()
+       {
+        cout<<"factorial number finding......................."<<endl;
+       }
 };
-
-class abc : public base{
-    protected:
-    int n,a;
-    public:
-    void setb(){
-        cout<<"enter n:"<<endl;
-        cin>>n;
-    }
+class b:public a
+{
+    
+        protected:
+     int a1;
+     public:
+       void setdata()
+       {
+        cout<<"enter value of n:";
+        cin>>a1;
+       }
+       
 };
-
-class xyz : public abc{
+class c:public b{
     public:
-    void getdata(){
-        for (a=1; a<=n; a++)
-        {
-           cout<<" "<<endl;
-        }
-    }
+    int ans=1;
+      void getdata()
+      {
+          for(int i=1;i<=a1;i++)
+          {
+            ans=ans*i;
+          }
+          cout<<ans;
+      }
 };
-
-int main(){
-    xyz a;
-    a.seta();
-    a.setb();
-    a.getdata();
+int main()
+{
+    c c1;
+    c1.setdata();
+    c1.getdata();
 }
-
-
-/*output:-
-cube of a
-enter n: 4
- 1
- 8
- 27
- 64
-*/
