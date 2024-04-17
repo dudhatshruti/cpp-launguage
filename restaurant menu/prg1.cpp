@@ -21,7 +21,7 @@ class menu{
         cout<<"******************* silver green restaurant ******************** "<<endl;
         cout<<" *************************  MENU  ************************"<<endl;
         cout<<"   SOUPS          "<<endl;
-        cout<<"=========================================================="<<endl;
+        cout<<"======================================================="<<endl;
         cout<<"1.veg. manchaow                         70/-"<<endl;              
         cout<<"2.Cream of tomato soup                  120/-"<<endl;
         cout<<"3.Cream of Veg. soup                    115/-"<<endl;
@@ -34,7 +34,7 @@ class menu{
         cout<<"7.Dahi fry                             50/-"<<endl;
         cout<<"8.Mung Dal                             45/-"<<endl;
         cout<<"9.sev Kanda                            130/-"<<endl<<endl;
-
+        
         cout<<" PANEER STARTER"  <<endl;
         cout<<"=========================================================="<<endl;
         cout<<"10.paneer lifafa                        120/-"<<endl;   
@@ -55,7 +55,7 @@ class menu{
 
         if (item==1)
         {
-           prono=item;
+           prono = item;
            name="veg. manchaow";
            price=70;
         }

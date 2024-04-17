@@ -12,7 +12,7 @@ class box{
     box  operator-(box n){
         box t;
         t.l = l - n.l;
-        t.w = w -n.w;
+        t.w = w - n.w;
         t.h = h - n.h;
         return t;
     }

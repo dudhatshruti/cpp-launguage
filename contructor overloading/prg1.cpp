@@ -1,3 +1,9 @@
+/*
+
+In C++, We can have more than one constructor in a class with same name, as long as each has a different list of arguments.This concept is known as Constructor Overloading and is quite similar to function overloading.
+*/
+
+
 #include<iostream>
 using namespace std;
 class test {

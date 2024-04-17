@@ -9,7 +9,6 @@ class bank{
         this -> bal  =  bal;
         this -> name = name;
     }
-
     void getdata()
     {
         cout<<"name :"<<name<<endl;
@@ -28,4 +27,6 @@ int main()
 name :skill
 balance :10000
 */
+
+
 
