@@ -1,3 +1,9 @@
+/*
+Array of objects in C++
+In C++, an array of objects is a collection of objects of the same class type that are stored in contiguous memory locations. Since each item in the array is an instance of the class, each one's member variables can have a unique value. This makes it possible to manage and handle numerous objects by storing them in a single data structure and giving them similar properties and behaviours.
+*/
+
+
 #include<iostream>
 using namespace std;
 class test{

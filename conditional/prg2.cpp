@@ -15,7 +15,6 @@ int main()
     }
     else{
         cout<<"\n b is smallest value:"<<b;
-
     }
 }
 

@@ -1,3 +1,19 @@
+/*
+C++ Friend function
+If a function is defined as a friend function in C++, then the protected and private data of a class can be accessed using the function.
+
+By using the keyword friend compiler knows the given function is a friend function.
+
+For accessing the data, the declaration of a friend function should be done inside the body of a class starting with the keyword friend.
+
+In the above declaration, the friend function is preceded by the keyword friend. The function can be defined anywhere in the program like a normal C++ function. The function definition does not use either the keyword friend or scope resolution operator.
+*/
+
+/*
+Passing an Object as argument
+To pass an object as an argument we write the object name as the argument while calling the function the same way we do it for other variables.
+*/
+
 #include<iostream>
 using namespace std;
 class box{

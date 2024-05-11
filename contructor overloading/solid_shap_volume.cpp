@@ -18,7 +18,6 @@ class shap{
     {
         cout<<"pyramid is :"<<((b*h)/3)<<endl;
     }
-    
 };
 
 int main()

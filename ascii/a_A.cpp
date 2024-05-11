@@ -10,8 +10,7 @@ int main()
     cout<<"capital character:"<<capital;
 }
 
-
-/*output :-
+/*output:-
 enter small:q
 capital character:Q
 

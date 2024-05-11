@@ -1,3 +1,7 @@
+/*
+Multiple Inheritance is the concept of the Inheritance in C++ that allows a child class to inherit properties or behaviour from multiple base classes. Therefore, we can say it is the process that enables a derived class to acquire member functions, properties, characteristics from more than one base class.
+*/
+
 #include<iostream>
 using namespace std;
 class base1{

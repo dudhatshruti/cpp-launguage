@@ -1,3 +1,9 @@
+/*
+As the name defines, it is the hierarchy of classes. There is a single base class and multiple derived classes. Furthermore, the derived classes are also inherited by some other classes. Thus a tree-like structure is formed of hierarchy.
+
+*/
+
+
 #include<iostream>
 using namespace std;
 class base{

@@ -11,7 +11,7 @@ class box{
     int getdata(){
         return l*w;
     }
-    friend box operator+(box , box)
+    friend box operator+(box , box);
 };
 
 box operator+(box x, box y){

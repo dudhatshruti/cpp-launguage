@@ -10,9 +10,8 @@ int main()
 
     for (i=0; i<5; i++)
     {
-        // printf("%d\t %u \n",a[i],&a[i]);
+       // printf("%d\t %u \n",a[i],&a[i]);
        cout<<"\t \n"<<*(p+i),(p+i);
-
     }
     
 }

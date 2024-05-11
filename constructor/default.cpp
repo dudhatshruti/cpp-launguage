@@ -13,6 +13,7 @@ int main()
     test a;
 }
 
+
 /*output :-
 default constructor is called....
 */

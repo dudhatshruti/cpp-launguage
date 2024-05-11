@@ -1,3 +1,5 @@
+// programming, not only can you derive a class from the base class but you can also derive a class from the derived class. This form of inheritance is known as multilevel inheritance.
+
 #include<iostream>
 using namespace std;
 class base{

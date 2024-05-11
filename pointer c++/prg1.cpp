@@ -1,3 +1,9 @@
+/*
+Using this Pointer in C++ 
+In C++, the “this” pointer is a special keyword that can be used inside a member function of a class to refer to the object that called the function. The “this” pointer is a pointer to the object itself, and is used to access the object’s data members and member functions. 
+*/
+
+
 #include<iostream>
 using namespace std;
 class bank{

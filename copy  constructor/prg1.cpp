@@ -1,5 +1,5 @@
 /*
-A copy constructor is a member function that initializes an object using another object of the same class.
+A copy constructor is a member function that initializes an object using another object of the same class. In simple terms, a constructor which creates an object by initializing it with an object of the same class, which has been created previously is known as a copy constructor.  
 */
 
 #include<iostream>

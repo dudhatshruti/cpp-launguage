@@ -1,3 +1,7 @@
+/*
+In C++, the “this” pointer holds the memory address of the class instance that is being called by a member function, allowing those functions to correctly access the object’s data members.
+*/
+
 #include<iostream>
 using namespace std;
 int main()
